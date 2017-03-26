@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "Create a new person"; ObjectID = "DQ1-xC-CYc"; */
+"DQ1-xC-CYc.title" = "Create a new person";
+
+/* Class = "UITabBarItem"; title = "Create a new person"; ObjectID = "F83-rY-UD6"; */
+"F83-rY-UD6.title" = "Create a new person";
+
+/* Class = "UIButton"; normalTitle = "Show Date Picker"; ObjectID = "Hp5-Qv-xJn"; */
+"Hp5-Qv-xJn.normalTitle" = "Show Date Picker";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "J8d-g7-Qze"; */
+"J8d-g7-Qze.placeholder" = "Name";
+
+/* Class = "UITextField"; text = "Selected Date"; ObjectID = "Mdv-T3-c0a"; */
+"Mdv-T3-c0a.text" = "Selected Date";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "fd4-de-zoy"; */
+"fd4-de-zoy.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Persons"; ObjectID = "lbl-5k-wuY"; */
+"lbl-5k-wuY.title" = "Persons";
